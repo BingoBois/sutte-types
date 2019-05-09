@@ -1,6 +1,7 @@
 {
   "name": "sutte-types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "types for les/sutte",
-  "author": "BingoBois"
+  "author": "BingoBois",
+  "main": "./types.ts"
 }
